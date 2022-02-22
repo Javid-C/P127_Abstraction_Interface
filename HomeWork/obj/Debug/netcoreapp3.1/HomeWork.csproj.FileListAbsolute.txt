@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Lenovo\source\repos\P127_Abstraction_Interface\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
